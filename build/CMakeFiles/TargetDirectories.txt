@@ -1,0 +1,3 @@
+/Users/acruzch/Developer/parallel-prog/build/CMakeFiles/holamundo.dir
+/Users/acruzch/Developer/parallel-prog/build/CMakeFiles/edit_cache.dir
+/Users/acruzch/Developer/parallel-prog/build/CMakeFiles/rebuild_cache.dir
