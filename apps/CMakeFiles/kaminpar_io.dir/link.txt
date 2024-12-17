@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libkaminpar_io.a CMakeFiles/kaminpar_io.dir/io/shm_metis_parser.cc.o CMakeFiles/kaminpar_io.dir/io/shm_parhip_parser.cc.o CMakeFiles/kaminpar_io.dir/io/shm_compressed_graph_binary.cc.o CMakeFiles/kaminpar_io.dir/io/shm_input_validator.cc.o CMakeFiles/kaminpar_io.dir/io/shm_io.cc.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libkaminpar_io.a
